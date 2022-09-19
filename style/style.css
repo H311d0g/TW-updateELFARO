@@ -1,0 +1,31 @@
+@media screen and (min-width:800) {
+    .container {
+        margin: 1em 2em;
+    }
+    
+}
+
+body {
+    font-family: 'Raleway';
+}
+
+
+.navbar {
+    background-color: aquamarine;
+    position: fixed top;
+}
+.navbar-brand {
+    font-weight: 800;
+    font-style: italic;
+}
+
+.footer {
+    position:absolute bottom;
+    height:150px;
+    line-height:150px;
+    background-color:aquamarine ;
+    text-align:center;
+    left: 0%;
+    width:100%;
+    
+}
